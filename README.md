@@ -5,10 +5,9 @@ Included list of current armors patched, not complete. Weapons, NPCs, and etc. h
 
 Added rest of TR_Mainland armors and fixed some previous ones 1/2/22
 
-Armor: 284/710 ||
+Armor: 346/710 ||
 Alchemy: 13/222 ||
-Class: 10/160 ||
-Clothing: 5/622 ||
+Clothing: 234/622 ||
 Creatures: 0/668 ||
 Ingredients: 0/457 ||
 Misc: 4/1070 ||
@@ -16,4 +15,4 @@ NPC: 3/3904 ||
 Race: 0/7 ||
 Repair: 0/4 ||
 Spell: 0/382 ||
-Weapon: 4/553 ||
+Weapon: 6/553 ||
